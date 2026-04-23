@@ -34,7 +34,7 @@
 - **解決：** 深度推定AI + 動的閾値による前景分離 + 多段階フェード処理による合成
 - **結果：** 主観評価実験において、従来手法に対し境界の自然さが有意に向上（p < 0.01）を実証
 - **技術：** Python / PyTorch / OpenCV
-- [Technical README](https://github.com/yoshiototora/360-video-synthesis-v1)
+- [GitHub](https://github.com/yoshiototora/360-video-synthesis-v1)
 
 ---
 
@@ -43,7 +43,7 @@
 - **課題：** 複雑な詐欺手口を、若年層を含む一般市民に直感理解させる必要性
 - **解決：** 親しみやすい3Dキャラクターを用いたストーリーベースの映像設計
 - **役割：** 脚本、モデリング、アニメーション、編集まで一貫して担当
-- [受賞実績詳細]（https://www.npa.go.jp/bureau/cyber/koho/news/2026318contest.html）
+- [受賞実績詳細](https://www.npa.go.jp/bureau/cyber/koho/news/2026318contest.html)
 - [YouTube](https://www.youtube.com/watch?v=2JKH-jF41Kk)
 
 ---
