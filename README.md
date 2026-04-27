@@ -23,7 +23,7 @@
 - **課題：** 既存のToDoアプリでは「失敗の振り返り」ができず習慣化が途切れる
 - **解決：** KPT法（Keep / Problem / Try）を組み込んだ独自の振り返りサイクルを実装
 - **実績：** 個人開発でApp Storeに公開。現在ユーザーデータをもとに継続率改善を検証中
-- **技術：** Swift / SwiftUI / Firebase
+- **技術：** Swift / SwiftUI 
 - [GitHub](https://github.com/yoshiototora/GoalTracker) | [App Store](https://apps.apple.com/jp/app/habitspark-%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%A7%E7%B6%9A%E3%81%8F%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%BF%92%E6%85%A3%E5%8C%96%E3%82%A2%E3%83%97%E3%83%AA/id6762178668)
 
 ---
