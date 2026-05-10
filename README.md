@@ -29,6 +29,7 @@
 - **役割：** 企画・脚本・モデリング・アニメーション・編集を担当（約2ヶ月で制作）
 
 - [受賞詳細（警察庁）](https://www.npa.go.jp/bureau/cyber/koho/news/2026318contest.html)
+- [長崎大学 NEWS掲載](https://www.nagasaki-u.ac.jp/ja/news/news4988.html)
 - [ニュース掲載（Yahoo!ニュース）](https://news.yahoo.co.jp/articles/10ef519155988def3c2d09f7e16edb30d8b0fdaf)
 - [YouTube](https://www.youtube.com/watch?v=2JKH-jF41Kk)
 
