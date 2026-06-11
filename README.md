@@ -1,5 +1,5 @@
 # Koki Yoshioka | 吉岡 晃基
-### ユーザーと運用者双方の視点に立ち、技術で課題を根本から解決しきるエンジニア
+### ユーザーと運用者双方の視点に立ち、技術で課題を根本から解決する
 
 | 🎓 Profile | AI / 3D Video Synthesis & iOS/Web Development |
 | :--- | :--- |
